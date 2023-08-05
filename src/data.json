@@ -1,0 +1,31 @@
+{
+  "models": [
+    {
+      "key": "Todos",
+      "value": []
+    }
+  ],
+  "views": [
+    {
+      "mKey": "Todos",
+      "component": "TodoHeader",
+      "parentPath": ".todoapp .header"
+    },
+    {
+      "mKey": "Todos",
+      "component": "TodoItems",
+      "parentPath": ".todoapp .main"
+    },
+    {
+      "mKey": "Todos",
+      "component": "TodoFooter",
+      "parentPath": ".todoapp .footer"
+    }
+  ],
+  "layouts": [
+    {
+      "name": "app-layout",
+      "parentPath": "#content"
+    }
+  ]
+}
