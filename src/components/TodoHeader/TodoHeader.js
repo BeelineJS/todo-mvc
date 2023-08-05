@@ -31,7 +31,7 @@ function _insertTodo(context) {
   value.push(todo);
   input.value = '';
 
-  return inputValue;
+  return value;
 }
 
 function _toggle(context) {

@@ -109,8 +109,8 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 34px;
-  height: 34px;
+  width: 44px;
+  height: 44px;
   cursor: pointer; }
   .TodoHeader .toggle-button * {
     pointer-events: none; }
@@ -163,7 +163,8 @@
     border: none;
     /* Mobile Safari */
     -webkit-appearance: none;
-    appearance: none; }
+    appearance: none;
+    cursor: pointer; }
   .TodoItems.todo-list li .toggle {
     opacity: 0; }
   .TodoItems.todo-list li .toggle + label {
