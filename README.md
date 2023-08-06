@@ -1,7 +1,7 @@
 # todo-mvc
 BeelineJS Todo MVC based on [todomvc.com](https://todomvc.com)
 
-Using 3 main components and one layout
+## Using 3 main components and one layout
 
 ## TodoHeader 
 insert new item and toggle the todo items completion
