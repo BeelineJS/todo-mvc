@@ -46,7 +46,7 @@ function render(context) {
     }))
     .join('');
 
-  el().innerHTML = html;
+  el.innerHTML = html;
 }
 
 function isFiltered(isActive, hash) {

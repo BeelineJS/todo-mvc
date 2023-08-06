@@ -1,6 +1,6 @@
 {
   "name": "beelinejs-todo-mvc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "BeelineJS implementation of TodoMVC.com",
   "main": "app.json",
   "scripts": {
@@ -19,7 +19,7 @@
   "homepage": "https://github.com/BeelineJS/todo-mvc#readme",
   "devDependencies": {
     "beelinejs-build": "^0.1.3",
-    "beelinejs-core": "^0.1.21",
+    "beelinejs-core": "0.1.27",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "6.7.3",
     "file-loader": "6.2.0",

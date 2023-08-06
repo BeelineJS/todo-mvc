@@ -18,7 +18,7 @@ function init(context) {
 
 function _insertTodo(context) {
   const { el, value } = context;
-  const input = el().querySelector('input');
+  const input = el.querySelector('input');
 
   const inputValue = input.value;
   if (inputValue.trim() === '') return;
