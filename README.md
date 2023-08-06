@@ -9,7 +9,7 @@ insert new item and toggle the todo items completion
 ## TodoItems
 List the items
 
-# Todo Fotter
+# Todo Footer
 Show the items summary and navigation links
 
 All items are links to one model via the modelKey string.
