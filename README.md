@@ -3,13 +3,13 @@ BeelineJS Todo MVC based on [todomvc.com](https://todomvc.com)
 
 ## Using 3 components and one layout
 
-## TodoHeader 
-insert new item and toggle the todo items completion
+### TodoHeader 
+insert new item and toggle the todo items completion.
 
-## TodoItems
+### TodoItems
 List the items
 
-# Todo Footer
+### Todo Footer
 Show the items summary and navigation links
 
 All items are links to one model via the modelKey string.
