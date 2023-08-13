@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/BeelineJS/todo-mvc#readme",
   "devDependencies": {
-    "beelinejs-build": "^0.1.5",
-    "beelinejs-core": "^0.1.30",
+    "beelinejs-build": "^0.1.6",
+    "beelinejs-core": "^0.1.35",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "6.7.3",
     "file-loader": "6.2.0",
