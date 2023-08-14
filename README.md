@@ -16,7 +16,8 @@ All items are links to one model via the modelKey string.
 Updates are all done as a return of the userEvent function.
 
 To run the example type `npm run todo`
-This will run the package script: `node build src/components src/layouts && webpack --mode development`
+This will run the package script:  
+`node build src/components src/layouts && webpack --mode development`
 
 The beelineJs node modules are:
 `beelinejs-core` and
