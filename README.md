@@ -22,3 +22,5 @@ This will run the package script:
 The beelineJs node modules are:
 `beelinejs-core` and
 `beelinejs-build`
+
+Open the `index.html` file in the `/dist` folder
